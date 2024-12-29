@@ -1,7 +1,7 @@
 # QA Reliable RAG with Cohere and Groq
 ## Reliable-RAG 🏷️
 
-*   Updated by: Wilfredo Aaron Sosa Ramos
+*   Created by: Wilfredo Aaron Sosa Ramos
 *   Reference: https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reliable_rag.ipynb
 
 ### Overview
