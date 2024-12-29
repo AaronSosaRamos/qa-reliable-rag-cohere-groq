@@ -1,0 +1,12 @@
+langchain
+langchain_core
+langchain_community
+langgraph
+langchain_cohere
+langchain_groq
+chroma
+langchain_chroma
+tiktoken
+python-dotenv
+gradio
+bs4
